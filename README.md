@@ -1,4 +1,5 @@
 # intro-to-github
+~MADE A CHANGE, JUST TO UNDERSTAND HOW TO~
 This is a demo repository to practice using GitHub.
 
 It has two files in the **Code** tab:
